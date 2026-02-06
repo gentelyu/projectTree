@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen",
+	"CMAKE_BINARY_DIR" : "C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/QTproject/projectTree",
+	"CMAKE_SOURCE_DIR" : "C:/QTproject/projectTree",
+	"INCLUDE_DIR" : "C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/projectTree_autogen.dir/AutoRcc_pgn_BUCQ7L75OE_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "pgn" ],
+	"OUTPUT_CHECKSUM" : "BUCQ7L75OE",
+	"OUTPUT_NAME" : "qrc_pgn.cpp",
+	"RCC_EXECUTABLE" : "D:/Software/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/projectTree_autogen.dir/AutoRcc_pgn_BUCQ7L75OE_Used.txt",
+	"SOURCE" : "C:/QTproject/\u56fe\u6807\u793a\u610f_16x16/pgn.qrc",
+	"VERBOSITY" : 0
+}

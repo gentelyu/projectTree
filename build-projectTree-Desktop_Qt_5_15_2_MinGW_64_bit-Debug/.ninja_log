@@ -1,0 +1,24 @@
+# ninja log v5
+17	725	7918942640389671	projectTree_autogen/timestamp	d4a19f519d243b1e
+17	725	7918942640389671	C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/timestamp	d4a19f519d243b1e
+17	725	7918942640389671	projectTree_autogen/mocs_compilation.cpp	d4a19f519d243b1e
+17	725	7918942640389671	C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/mocs_compilation.cpp	d4a19f519d243b1e
+1986	9557	7918933569206869	CMakeFiles/projectTree.dir/projectTree_autogen/mocs_compilation.cpp.obj	3b92355bce0be111
+2095	9570	7918933569328528	CMakeFiles/projectTree.dir/main.cpp.obj	f1c6f0aa293252e5
+735	6511	7918942698260062	CMakeFiles/projectTree.dir/mainwindow.cpp.obj	28b3163ff07d6309
+6512	7188	7918942704953633	projectTree.exe	be1a1e4c5d3a0d04
+96	820	7919599280822223	projectTree_autogen/timestamp	d4a19f519d243b1e
+96	820	7919599280822223	projectTree_autogen/mocs_compilation.cpp	d4a19f519d243b1e
+96	820	7919599280822223	C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/timestamp	d4a19f519d243b1e
+96	820	7919599280822223	C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/mocs_compilation.cpp	d4a19f519d243b1e
+842	1190	7919599284515410	projectTree_autogen/BUCQ7L75OE/qrc_images.cpp	86852aa7d6a47a45
+842	1190	7919599284515410	C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/BUCQ7L75OE/qrc_images.cpp	86852aa7d6a47a45
+1191	2884	7919599301521096	CMakeFiles/projectTree.dir/projectTree_autogen/BUCQ7L75OE/qrc_images.cpp.obj	87aa9a19332d4e9c
+1211	6648	7919599339179923	CMakeFiles/projectTree.dir/mainwindow.cpp.obj	28b3163ff07d6309
+6649	10242	7919599375077015	projectTree.exe	1033d51aebea848e
+21	710	7919600255082933	projectTree_autogen/timestamp	d4a19f519d243b1e
+21	710	7919600255082933	projectTree_autogen/mocs_compilation.cpp	d4a19f519d243b1e
+21	710	7919600255082933	C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/timestamp	d4a19f519d243b1e
+21	710	7919600255082933	C:/QTproject/build-projectTree-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/projectTree_autogen/mocs_compilation.cpp	d4a19f519d243b1e
+720	4904	7919600297078904	CMakeFiles/projectTree.dir/mainwindow.cpp.obj	28b3163ff07d6309
+4905	5231	7919600300295735	projectTree.exe	1033d51aebea848e
