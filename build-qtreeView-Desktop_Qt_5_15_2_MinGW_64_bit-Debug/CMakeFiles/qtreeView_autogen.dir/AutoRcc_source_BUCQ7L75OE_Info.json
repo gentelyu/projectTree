@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/QTproject/build-qtreeView-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/qtreeView_autogen",
+	"CMAKE_BINARY_DIR" : "C:/QTproject/build-qtreeView-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/QTproject/build-qtreeView-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/QTproject/qtreeView",
+	"CMAKE_SOURCE_DIR" : "C:/QTproject/qtreeView",
+	"INCLUDE_DIR" : "C:/QTproject/build-qtreeView-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/qtreeView_autogen/include",
+	"INPUTS" : [ "C:/QTproject/\u56fe\u6807\u793a\u610f_16x16/icon.png" ],
+	"LOCK_FILE" : "C:/QTproject/build-qtreeView-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/qtreeView_autogen.dir/AutoRcc_source_BUCQ7L75OE_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "source" ],
+	"OUTPUT_CHECKSUM" : "BUCQ7L75OE",
+	"OUTPUT_NAME" : "qrc_source.cpp",
+	"RCC_EXECUTABLE" : "D:/Software/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/QTproject/build-qtreeView-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/qtreeView_autogen.dir/AutoRcc_source_BUCQ7L75OE_Used.txt",
+	"SOURCE" : "C:/QTproject/\u56fe\u6807\u793a\u610f_16x16/source.qrc",
+	"VERBOSITY" : 0
+}
